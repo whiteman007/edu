@@ -1,0 +1,1 @@
+[22-Aug-2020 12:41:25 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sudogate/public_html/ims/libs/db_connect.php on line 2
